@@ -81,7 +81,7 @@ const InviteCard = () => {
 
         <div className="poster__note">
           Mọi người có thể gửi xe tại trường ĐH Khoa học Tự nhiên nhưng nếu hết chỗ thì có thể gửi tại <strong>THPT chuyên Lê Hồng Phong</strong> (bên phải cổng nhà giữ xe Trường ĐH Khoa học Tự
-          nhiên khoảng 10m) hoặc bãi giữ xe <strong>NOWZONE</strong> đối diện cổng trường Lê Hồng Phong.
+          nhiên khoảng 10m) hoặc bãi giữ xe <strong>NOWZONE</strong> đối diện cổng trường Lê Hồng Phong hoặc <strong>trường Đại học Sư phạm bên phải trường ĐH Khoa học Tự nhiên</strong>
         </div>
       </div>
     </div>
